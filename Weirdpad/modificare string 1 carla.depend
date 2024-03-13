@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1705771255 source:c:\users\ediio\desktop\codeblocks files\modificare string 1 carla\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<string>
+	<vector>
+	<fstream>
+	<stack>
+	<tuple>
+	<cmath>
+
